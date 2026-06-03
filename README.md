@@ -20,14 +20,12 @@
         <h2>Why I Like Dogs</h2>
         <p>
             Dogs are loyal, friendly, and intelligent animals.
-            They make great companions and are loved by millions
-            of people around the world.
+            They make great companions and are loved by millions of people around the world.
         </p>
     </section>
 
     <section>
         <h2>Popular Dog Breeds</h2>
-
         <ul>
             <li>Golden Retriever</li>
             <li>German Shepherd</li>
@@ -39,22 +37,20 @@
         <h2>Dog Gallery</h2>
 
         <figure>
-            <img src="https://placedog.net/400/250?id=1"
-                 alt="Golden dog sitting outdoors">
-            <figcaption>A friendly golden dog.</figcaption>
+            <img src="golden.jpg" alt="Golden Retriever sitting outdoors" width="300">
+            <figcaption>Golden Retriever</figcaption>
         </figure>
 
         <figure>
-            <img src="https://placedog.net/400/250?id=2"
-                 alt="German shepherd standing in a field">
-            <figcaption>A strong German Shepherd.</figcaption>
+            <img src="shepherd.jpg" alt="German Shepherd standing in a field" width="300">
+            <figcaption>German Shepherd</figcaption>
         </figure>
 
         <figure>
-            <img src="https://placedog.net/400/250?id=3"
-                 alt="Labrador looking at the camera">
-            <figcaption>A playful Labrador Retriever.</figcaption>
+            <img src="labrador.jpg" alt="Yellow Labrador looking at the camera" width="300">
+            <figcaption>Labrador Retriever</figcaption>
         </figure>
+
     </section>
 
     <section>
