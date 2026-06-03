@@ -4,30 +4,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>All About Dogs</title>
+    <title>My Favorite Dogs</title>
 </head>
 <body>
 
 ```
 <header>
-    <h1>All About Dogs</h1>
-    <p>A simple website about man's best friend.</p>
+    <h1>My Favorite Dogs</h1>
+    <p>A simple website about some amazing dog breeds.</p>
 </header>
 
 <main>
 
     <section>
-        <h2>Why People Love Dogs</h2>
-
+        <h2>Why I Like Dogs</h2>
         <p>
-            Dogs are loyal, intelligent, and friendly animals.
-            They are popular pets around the world.
+            Dogs are loyal, friendly, and intelligent animals.
+            They make great companions and are loved by millions
+            of people around the world.
         </p>
+    </section>
+
+    <section>
+        <h2>Popular Dog Breeds</h2>
 
         <ul>
-            <li>Dogs are loyal companions.</li>
-            <li>Dogs can help people feel happier.</li>
-            <li>Dogs are often easy to train.</li>
+            <li>Golden Retriever</li>
+            <li>German Shepherd</li>
+            <li>Labrador Retriever</li>
         </ul>
     </section>
 
@@ -35,46 +39,39 @@
         <h2>Dog Gallery</h2>
 
         <figure>
-            <img
-                src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Golden_Retriever_Carlos_%2810510581916%29.jpg"
-                alt="Golden Retriever sitting outdoors"
-                width="300">
-            <figcaption>Golden Retriever</figcaption>
+            <img src="https://placedog.net/400/250?id=1"
+                 alt="Golden dog sitting outdoors">
+            <figcaption>A friendly golden dog.</figcaption>
         </figure>
 
         <figure>
-            <img
-                src="https://upload.wikimedia.org/wikipedia/commons/3/32/German_Shepherd_Dog.jpg"
-                alt="German Shepherd standing on grass"
-                width="300">
-            <figcaption>German Shepherd</figcaption>
+            <img src="https://placedog.net/400/250?id=2"
+                 alt="German shepherd standing in a field">
+            <figcaption>A strong German Shepherd.</figcaption>
         </figure>
 
         <figure>
-            <img
-                src="https://upload.wikimedia.org/wikipedia/commons/2/26/YellowLabradorLooking_new.jpg"
-                alt="Yellow Labrador looking at the camera"
-                width="300">
-            <figcaption>Labrador Retriever</figcaption>
+            <img src="https://placedog.net/400/250?id=3"
+                 alt="Labrador looking at the camera">
+            <figcaption>A playful Labrador Retriever.</figcaption>
         </figure>
     </section>
 
     <section>
         <h2>Learn More</h2>
-
         <p>
             Visit
             <a href="https://en.wikipedia.org/wiki/Dog">
-                Wikipedia's page about dogs
+                Wikipedia's Dog Article
             </a>
-            to learn more.
+            to learn more about dogs.
         </p>
     </section>
 
 </main>
 
 <footer>
-    <p>&copy; 2026 Dog Website Project</p>
+    <p>&copy; 2026 My Favorite Dogs</p>
 </footer>
 ```
 
