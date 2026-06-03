@@ -1,4 +1,3 @@
-# dog-website
 <!DOCTYPE html>
 
 <html lang="en">
@@ -11,56 +10,71 @@
 
 ```
 <header>
-    <h1>Welcome to My Dog Website</h1>
-    <nav>
-        <ul>
-            <li><a href="#about">About Dogs</a></li>
-            <li><a href="#breeds">Popular Breeds</a></li>
-            <li><a href="#learn">Learn More</a></li>
-        </ul>
-    </nav>
+    <h1>All About Dogs</h1>
+    <p>A simple website about man's best friend.</p>
 </header>
 
 <main>
 
-    <section id="about">
-        <h2>About Dogs</h2>
-
-        <img
-            src="https://images.unsplash.com/photo-1517849845537-4d257902454a?w=600"
-            alt="Golden Retriever Dog"
-            width="300">
+    <section>
+        <h2>Why People Love Dogs</h2>
 
         <p>
-            Dogs are loyal, friendly, and intelligent animals.
-            They are often called man's best friend because of their companionship and devotion.
+            Dogs are loyal, intelligent, and friendly animals.
+            They are popular pets around the world.
         </p>
-    </section>
 
-    <section id="breeds">
-        <h2>Popular Dog Breeds</h2>
         <ul>
-            <li><strong>Golden Retriever:</strong> Friendly and gentle.</li>
-            <li><strong>German Shepherd:</strong> Intelligent and courageous.</li>
-            <li><strong>Labrador Retriever:</strong> Active and affectionate.</li>
+            <li>Dogs are loyal companions.</li>
+            <li>Dogs can help people feel happier.</li>
+            <li>Dogs are often easy to train.</li>
         </ul>
     </section>
 
-    <section id="learn">
+    <section>
+        <h2>Dog Gallery</h2>
+
+        <figure>
+            <img
+                src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Golden_Retriever_Carlos_%2810510581916%29.jpg"
+                alt="Golden Retriever sitting outdoors"
+                width="300">
+            <figcaption>Golden Retriever</figcaption>
+        </figure>
+
+        <figure>
+            <img
+                src="https://upload.wikimedia.org/wikipedia/commons/3/32/German_Shepherd_Dog.jpg"
+                alt="German Shepherd standing on grass"
+                width="300">
+            <figcaption>German Shepherd</figcaption>
+        </figure>
+
+        <figure>
+            <img
+                src="https://upload.wikimedia.org/wikipedia/commons/2/26/YellowLabradorLooking_new.jpg"
+                alt="Yellow Labrador looking at the camera"
+                width="300">
+            <figcaption>Labrador Retriever</figcaption>
+        </figure>
+    </section>
+
+    <section>
         <h2>Learn More</h2>
+
         <p>
             Visit
-            <a href="https://en.wikipedia.org/wiki/Dog" target="_blank">
-                Wikipedia's Dog Page
+            <a href="https://en.wikipedia.org/wiki/Dog">
+                Wikipedia's page about dogs
             </a>
-            to learn more about dogs.
+            to learn more.
         </p>
     </section>
 
 </main>
 
 <footer>
-    <p>&copy; 2026 Dog Lovers Website. Built for Web Design for Everybody.</p>
+    <p>&copy; 2026 Dog Website Project</p>
 </footer>
 ```
 
